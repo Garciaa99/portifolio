@@ -343,6 +343,7 @@ font-size: 15px;
   font-weight: 600;
   font-size: 16px;
   margin-bottom: 0px!important;
+  text-decoration: none;
 }
 
 .secao-whats {
@@ -362,8 +363,10 @@ footer {
     line-height: 80px;
 }
 
-
-
+.conteudo-contato a {
+  text-decoration: none;
+  color: black;
+}
 
 
 
